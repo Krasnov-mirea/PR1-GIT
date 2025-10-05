@@ -1,2 +1,5 @@
 print('file5')
+<<<<<<< HEAD
 print('Изменения в file5')
+=======
+>>>>>>> 6bece2bca081f048bec5bd8bb6fc792f1240424b
